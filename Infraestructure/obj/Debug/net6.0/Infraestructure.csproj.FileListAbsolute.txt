@@ -1,0 +1,17 @@
+C:\Users\Jhony Malpartida\Documents\Visual Studio 2022\Clean Arquitecture DDD\EasyPOS\Infraestructure\bin\Debug\net6.0\Infraestructure.deps.json
+C:\Users\Jhony Malpartida\Documents\Visual Studio 2022\Clean Arquitecture DDD\EasyPOS\Infraestructure\bin\Debug\net6.0\Infraestructure.dll
+C:\Users\Jhony Malpartida\Documents\Visual Studio 2022\Clean Arquitecture DDD\EasyPOS\Infraestructure\bin\Debug\net6.0\Infraestructure.pdb
+C:\Users\Jhony Malpartida\Documents\Visual Studio 2022\Clean Arquitecture DDD\EasyPOS\Infraestructure\bin\Debug\net6.0\Application.dll
+C:\Users\Jhony Malpartida\Documents\Visual Studio 2022\Clean Arquitecture DDD\EasyPOS\Infraestructure\bin\Debug\net6.0\Domain.dll
+C:\Users\Jhony Malpartida\Documents\Visual Studio 2022\Clean Arquitecture DDD\EasyPOS\Infraestructure\bin\Debug\net6.0\Domain.pdb
+C:\Users\Jhony Malpartida\Documents\Visual Studio 2022\Clean Arquitecture DDD\EasyPOS\Infraestructure\bin\Debug\net6.0\Application.pdb
+C:\Users\Jhony Malpartida\Documents\Visual Studio 2022\Clean Arquitecture DDD\EasyPOS\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Jhony Malpartida\Documents\Visual Studio 2022\Clean Arquitecture DDD\EasyPOS\Infraestructure\obj\Debug\net6.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhony Malpartida\Documents\Visual Studio 2022\Clean Arquitecture DDD\EasyPOS\Infraestructure\obj\Debug\net6.0\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Jhony Malpartida\Documents\Visual Studio 2022\Clean Arquitecture DDD\EasyPOS\Infraestructure\obj\Debug\net6.0\Infraestructure.AssemblyInfo.cs
+C:\Users\Jhony Malpartida\Documents\Visual Studio 2022\Clean Arquitecture DDD\EasyPOS\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Jhony Malpartida\Documents\Visual Studio 2022\Clean Arquitecture DDD\EasyPOS\Infraestructure\obj\Debug\net6.0\Infraestructure.csproj.CopyComplete
+C:\Users\Jhony Malpartida\Documents\Visual Studio 2022\Clean Arquitecture DDD\EasyPOS\Infraestructure\obj\Debug\net6.0\Infraestructure.dll
+C:\Users\Jhony Malpartida\Documents\Visual Studio 2022\Clean Arquitecture DDD\EasyPOS\Infraestructure\obj\Debug\net6.0\refint\Infraestructure.dll
+C:\Users\Jhony Malpartida\Documents\Visual Studio 2022\Clean Arquitecture DDD\EasyPOS\Infraestructure\obj\Debug\net6.0\Infraestructure.pdb
+C:\Users\Jhony Malpartida\Documents\Visual Studio 2022\Clean Arquitecture DDD\EasyPOS\Infraestructure\obj\Debug\net6.0\ref\Infraestructure.dll

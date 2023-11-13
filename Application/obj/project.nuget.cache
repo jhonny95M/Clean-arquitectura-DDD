@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vpSTYAmLPfv801OuIVvsScTIZo/h4ZYzupUG5qhFJ3cQ0U4ITaa5VGXHWk1/1q8ll/XWFGIyhmAVZivxA140Ew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jhony Malpartida\\Documents\\Visual Studio 2022\\Clean Arquitecture DDD\\EasyPOS\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jhony Malpartida\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\Jhony Malpartida\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Jhony Malpartida\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
