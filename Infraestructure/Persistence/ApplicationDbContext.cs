@@ -15,7 +15,10 @@ public class ApplicationDbContext : DbContext, IApplicationDbContext, IUnitOfWor
     }
 
     public DbSet<Customer> Customers { get; set; }
-    
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        modelBuilder.ApplyConfigurationsFromAssembly(typeof(ApplicationDbContext).Assembly);
+    }
     public override async Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
     {
         var domainEvents=ChangeTracker.Entries<AggregateRoot>()

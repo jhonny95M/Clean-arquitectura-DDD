@@ -12,7 +12,7 @@ public class CustomerConfiguration : IEntityTypeConfiguration<Customer>
     {
         builder.HasKey(c=>c.Id);
         builder.Property(c=>c.Id).HasConversion(
-            customerId=>customerId.value,
+            customerId=>customerId.Value,
             value=>new CustomerId(value));
             builder.Property(c=>c.Name).HasMaxLength(50);
             builder.Property(c=>c.LastName).HasMaxLength(50);
