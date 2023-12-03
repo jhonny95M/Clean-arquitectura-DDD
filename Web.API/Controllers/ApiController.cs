@@ -4,11 +4,10 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
 using Web.API.Common.Http;
 
-namespace Web.API.Controllers
-{
-    //[Route("api/[controller]")]
-    //[ApiController]
-    public class ApiController : ControllerBase
+namespace Web.API.Controllers;
+//[Route("api/[controller]")]
+[ApiController]
+public class ApiController : ControllerBase
     {
         protected IActionResult Problem(List<Error>errors) 
         {
@@ -37,4 +36,4 @@ namespace Web.API.Controllers
             return ValidationProblem(modelStateDictionary);
         }
     }
-}
+
