@@ -18,8 +18,6 @@ internal sealed class CreateCistomerCommandHandler : IRequestHandler<CreateCusto
 
     public async Task<ErrorOr<Unit>> Handle(CreateCustomerCommand command, CancellationToken cancellationToken)
     {
-        try
-        {
             if (PhoneNumber.Create(command.PhoneNumber) is not PhoneNumber phoneNumber)
                 return Error.Validation("Customer.PhonNumber", "Phone number has not format.");
             if (Address.Create(command.Country, command.Line1, command.Line2, command.City, command.State, command.ZipCode)
@@ -37,9 +35,6 @@ internal sealed class CreateCistomerCommandHandler : IRequestHandler<CreateCusto
             await customerRepository.Add(customer);
             await unitOdWork.SaveChangesAsync(cancellationToken);
             return Unit.Value;
-        }catch (Exception ex)
-        {
-            return Error.Failure("CreateCustomer.Failure ", ex.Message);
-        }
+       
     }
 }
